@@ -254,6 +254,40 @@
               "pdfUrl": "https://drive.google.com/file/d/1TSFUMLyuTAxdWpFHtL3c9eW7IjaHo8nt/view?usp=sharing"
             }
           ]
+        },
+        {
+          "week": 4,
+          "title": "Beginner - Getting started in UX design",
+          "lessons": [
+            {
+              "title": "Prototyping in Figma",
+              "duration": "6:10",
+              "type": "video",
+              "completed": false,
+              "videoUrl": "https://www.youtube.com/watch?v=example9"
+            },
+            {
+              "title": "Usability testing methods",
+              "duration": "7:50",
+              "type": "video",
+              "completed": false,
+              "videoUrl": "https://www.youtube.com/watch?v=example10"
+            },
+            {
+              "title": "Iterating based on feedback",
+              "duration": "5:00",
+              "type": "document",
+              "completed": false,
+              "pdfUrl": "https://drive.google.com/file/d/1TSFUMLyuTAxdWpFHtL3c9eW7IjaHo8nt/view?usp=sharing"
+            },
+            {
+              "title": "Class project 05 - Test your prototype",
+              "type": "quiz",
+              "questions": 1,
+              "completed": false,
+              "pdfUrl": "https://drive.google.com/file/d/1TSFUMLyuTAxdWpFHtL3c9eW7IjaHo8nt/view?usp=sharing"
+            }
+          ]
         }
       ]
     },
