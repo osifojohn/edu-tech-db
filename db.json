@@ -3,7 +3,7 @@
     {
       "id": "1",
       "title": "The complete advanced 6-week UI/UX design bootcamp",
-      "description": "Our 6-week UI/UX bootcamp equips students with the essential skills to become successful designers. Our experienced instructors provide hands-on learning opportunities to design and prototype digital products, conduct user research, and create user flows and wireframes.",
+      "description": "Our 6-week UI/UX bootcamp equips students with the essential skills to become successful designers",
       "image": "https://picsum.photos/seed/picsum/200/300",
       "instructor": {
         "name": "Dr. Marley Bator",
@@ -23,7 +23,7 @@
     {
       "id": "2",
       "title": "Mastering Frontend Development with React and Vue",
-      "description": "This 8-week course focuses on the fundamentals of frontend development using React and Vue. You will learn how to build modern, performant web applications with hands-on projects that simulate real-world scenarios.",
+      "description": "This 8-week course focuses on the fundamentals of frontend development using React and Vue.",
       "image": "https://picsum.photos/seed/reactvue/200/300",
       "instructor": {
         "name": "Prof. Jane Albright",
